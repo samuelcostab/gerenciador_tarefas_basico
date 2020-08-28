@@ -2,7 +2,7 @@
 Conteúdo de fixação envolvendo conceitos de FlatList + AsyncStorage
 
 
-# Para atualiza/instalar projeto 
+# Para atualizar/instalar projeto 
 
 - npm install (para atualizar as dependências)
 
