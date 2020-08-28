@@ -1,5 +1,5 @@
 # Gerenciador de tarefas-basico
-Envolvendo conseitos de FlatList + AsyncStorage
+Conteúdo de fixação envolvendo conceitos de FlatList + AsyncStorage
 
 
 # Para atualiza/instalar projeto 
