@@ -1,4 +1,8 @@
-# gerenciador-tarefas-basico
+# Gerenciador de tarefas-basico
+Envolvendo conseitos de FlatList + AsyncStorage
+
+
+# Para atualiza/instalar projeto 
 
 - npm install (para atualizar as dependências)
 
